@@ -13,4 +13,4 @@ include(CPack)
 set(CMAKE_TOOLCHAIN_FILE "${CMAKE_CURRENT_SOURCE_DIR}/toolchain.cmake")
 
 
-add_executable(my_app main.cpp)
+add_executable(route-writer main.cpp)
