@@ -13,9 +13,7 @@ Dijkstra's implementation: Lucas/Ryder
 
 Address Grouper: Evan
 
-Distance API: Vibha
-
-Graph implementation: Lucas/Ryder
+Distance API: Vibha + Lucas/Ryder
 
 Front End: Sasha
 
