@@ -14,3 +14,5 @@ Graph implementation: Lucas/Ryder
 
 Front End: Sasha
 
+
+Not all roles are of equal difficulty -- When a role is completed, if possible, help with other roles. Currently, I believe the API is likely the most time consuming element (just in terms of research).
