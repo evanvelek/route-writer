@@ -1,10 +1,15 @@
 #include <iostream>
+#include <vector>
+#include <unordered_map>
 
-void say_hello(){
-    std::cout << "Hello, from route-writer!\n";
-}
 
+struct Edge{
+    int neighbor; // Vertices known by an integer key
+    double weight;
+};
+
+using Graph = std::unordered_map<int, std::vector<Edge> >;
 
 int main(){
-    say_hello();
+    std::cout << "";
 }
